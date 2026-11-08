@@ -27,3 +27,5 @@ aptPackages:
   - libssl-dev
   - xsltproc
   - python3-psutil
+  - libargon2-dev
+  - uuid-dev
